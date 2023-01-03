@@ -1,2 +1,2 @@
 # adeve
-Website for Adele Gardens
+Website for Adeve Gardens
